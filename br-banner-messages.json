@@ -1,7 +1,7 @@
 [
   {
     "id": "123",
-    "message": "<div class='d-flex align-items-center'><span class='px-3'><i class='fa fa-bullhorn' /></span><span>Announcing our VEDR partnership with Nauto! Call us for FREE MV+AI Cameras <a href='tel:+14158889059'>+1 415 888 9059</a></span></div>",
+    "message": "Announcing our VEDR partnership with Nauto! Call us for FREE MV+AI Cameras <a href='tel:+14158889059'>+1 415 888 9059</a>",
     "timeInSeconds": -1,
     "display_option_tags": "",
     "bg": "success"
