@@ -1,5 +1,22 @@
 [
   {
+    "id": "updated-location-icons-dispatch",
+    "title": "Updated location icons",
+    "summary": "We've added the ability for users to select location icons based on the type of the stop. This will allow users to visually better differentiate between different types of stops. The current version is available for the dispatch console and the plan is to bring this to the app in the next 3-4 weeks.",
+    "platform": "Dispatch",
+    "description": [
+      "<p><strong>Details</strong></p><ul><li>We're currently supporting four variations<ul><li>Residential&nbsp;</li><li>Non-residential (aka Businesses)</li><li>Time Commits</li><li>High priority</li></ul></li></ul>",
+      "<ul><li><p>Users can go to preferences and navigate to 'User Interface' to select the icon pack as well as the individual icon for each type of stop</p><figure class=\"image image_resized\" style=\"width:86.79%;\"><img style=\"aspect-ratio:1706/853;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-07-11/2024-07-11_fc6eb5f2-0d44-418c-8718-71f4c987c5d7.png\" width=\"1706\" height=\"853\"></figure></li></ul>",
+      "<ul><li><p>We currently have two icon packs and may potentially add/edit a few more icons</p><figure class=\"image image_resized\" style=\"width:89.55%;\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-07-11/2024-07-11_5df77c04-4a28-4285-a8f6-6c9b42d1a4dc.png\" width=\"1710\" height=\"849\"></figure></li></ul>",
+      "<ul><li><p>Once an icon is selected for a type of stop, the dispatch console is automatically updated.</p><figure class=\"image image_resized\" style=\"width:88.14%;\"><img style=\"aspect-ratio:1706/853;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-07-11/2024-07-11_941ebad6-9837-4b50-88a5-c97d13a2c376.png\" width=\"1706\" height=\"853\"></figure></li></ul>"
+    ],
+    "tutorial_url": "https://beans-ai.portal.trainn.co/share/Vim0gcu3FR3dDli4FrgzXg/embed?mode=interactive",
+    "display_option_tags": "",
+    "account_buids": "",
+    "date_str": "2024-07-11",
+    "timestamp": 0
+  },
+  {
     "id": "custom-geocodes-enhancement",
     "title": "Custom Geocodes Enhancements",
     "summary": "The above enhancements will allow users to further optimize their dispatch and delivery operations based on the types of addresses they are delivering to.",
