@@ -18,19 +18,6 @@
     "timestamp": 1718629290
   },
   {
-    "id": "123",
-    "title": "Updated location icons",
-    "summary": "We've added the ability for users to select location icons based on the type of the stop. This will allow users to visually better differentiate between different types of stops. The current version is available for the dispatch console and the plan is to bring this to the app in the next 3-4 weeks. ",
-    "platform": "Dispatch",
-    "description": "<div class=\"formatted_content formatted_content--large\"><div><strong>Summary<br><br></strong>We've added the ability for users to select location icons based on the type of the stop. This will allow users to visually better differentiate between different types of stops. The current version is available for the dispatch console and the plan is to bring this to the app in the next 3-4 weeks.<br><br></div><div><strong>Details</strong></div><ul><li>We're currently supporting four variations<ul><li>Residential </li><li>Non-residential (aka Businesses)</li><li>Time Commits</li><li>High priority<br><br></li></ul></li><li>Users can go to preferences and navigate to 'User Interface' to select the icon pack as well as the individual icon for each type of stop.</li><li>We currently have two icon packs and may potentially add/edit a few more icons</li><li>Once an icon is selected for a type of stop, the dispatch console is automatically updated. <br></li></ul><div></div></div>",
-    "thumbnail_url": "https://storage.googleapis.com/beans-images/production/original/2024-06-20/2024-06-20_79d574b1-50b4-4c95-94b1-664e4125cb5f.png",
-    "video_url": "",
-    "video_player": "HTML",
-    "realm": "production",
-    "display_option_tags": "",
-    "timestamp": 1718629280
-  },
-  {
     "id": "1234",
     "title": "Live Status > Map",
     "summary": "We've updated the functionality of the Map (aka All Stops) view under live status. This will allow users to filter and identify operationally relevant stops faster. The feature applies to all account types but may be most useful for ISPs with Express stops. This will be in production starting 5/24",
