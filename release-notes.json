@@ -44,7 +44,7 @@
     "video_url": "https://storage.googleapis.com/beans-images/51167403b3d74194a1cddf7d83d00719.mov",
     "video_player": "HTML",
     "realm": "production",
-    "display_option_tags": "fedex",
+    "display_option_tags": "fedex;ontrac",
     "timestamp": 1718886258
   }
 ]
