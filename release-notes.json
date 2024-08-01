@@ -41,15 +41,13 @@
     "platform": "Dispatch",
     "description": [
       "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-sizing:border-box;color:rgb(10, 34, 57);font-family:Montserrat, sans-serif;font-size:15px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"><span style=\"box-sizing:border-box;font-weight:400;\">Step 1: On the map, zoom in to the location of the pin you want to move.</span><br>&nbsp;</p><figure class=\"image\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-07-31/2024-07-31_d53cd050-0987-4c38-9649-b2e23fa6a521.jpeg\" width=\"1710\" height=\"849\"></figure>"
-    ]
-   "tutorial_url": "https://beans-ai.portal.trainn.co/share/XkJ923N7h7o1sk8mP42dew/embed?mode=interactive",
+    ],
+    "tutorial_url": "https://beans-ai.portal.trainn.co/share/XkJ923N7h7o1sk8mP42dew/embed?mode=interactive",
     "display_option_tags": "",
     "account_buids": "",
     "date_str": "2023-12-11",
     "timestamp": 1718697600
-  }
-  
-  
+  },
   {
     "id": "1234",
     "title": "Live Status > Map",
