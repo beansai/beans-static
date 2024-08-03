@@ -88,16 +88,33 @@
     "summary": "The tutorial guides you through the process of enrolling drivers in safety training within the Dispatch Console.",
     "platform": "Dispatch",
     "description": [
-      "<p>Step 1: In the Dispatch Console: Settings &gt; Preferences.</p><figure class=\"image\"><img style=\"aspect-ratio:1718/841;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_93d0af82-0727-4a26-8c6d-08ceecb5ba45.jpeg\" width=\"1718\" height=\"841\"></figure>",
-      "<p>Step 2: Choose \"Safety.\" &nbsp;Click \"Turn on safety training.\"</p><figure class=\"image\"><img style=\"aspect-ratio:3024/1494;\" src=\"https://storage.googleapis.com/beans-images/production/original/2024-08-02/2024-08-02_8d4e65e0-672d-428e-816d-fcacb05864db.jpeg\" width=\"3024\" height=\"1494\"></figure><figure class=\"image\"><img style=\"aspect-ratio:3024/1508;\" src=\"https://storage.googleapis.com/beans-images/production/original/2024-08-02/2024-08-02_58695d06-f4f3-4aa0-9515-dae46e26faa0.jpeg\" width=\"3024\" height=\"1508\"></figure>",
-      "<p>Step 3: Click Assets &gt; Drivers and Dispatchers.</p><figure class=\"image\"><img style=\"aspect-ratio:1625/934;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_66c2da89-4650-4c7a-b91e-653f5da5c050.png\" width=\"1625\" height=\"934\"></figure>",
-      "<p>Step 4: Click the circle with checkmark icon to highlight the entire list of drivers; if an employee does not need the safety training, click on the row of that employee to unhighlight the individual (e.g., a manager who doesn’t deliver).</p><figure class=\"image\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_d8c4b2fb-d1c3-4d58-a238-a562fd5c0a63.jpeg\" width=\"1710\" height=\"849\"></figure>",
-      "<p>Step 5: Click \"Modify Driver.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1714/845;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_123a6f2e-bfec-4d9f-a98b-b04d5da79afc.jpeg\" width=\"1714\" height=\"845\"></figure>",
-      "<p>Step 6: Check the box \"Enroll in Safety Training.\" &nbsp;Click \"Save.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1713/846;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_b78737c2-3780-45aa-b092-2d28a8138ce9.jpeg\" width=\"1713\" height=\"846\"></figure>",
-      "<p>Step 7: Drivers will be enrolled in safety and you will see a notification under each driver which says \"Safety Training is turned on.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_b5e3ba99-ac90-492d-9760-f86ed139988a.jpeg\" width=\"1710\" height=\"849\"></figure>"
+      "<p><b>Step 1:</b> In the Dispatch Console: Settings &gt; Preferences.</p><figure class=\"image\"><img style=\"aspect-ratio:1718/841;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_93d0af82-0727-4a26-8c6d-08ceecb5ba45.jpeg\" width=\"1718\" height=\"841\"></figure>",
+      "<p><b>Step 2:</b> Choose \"Safety.\" &nbsp;Click \"Turn on safety training.\"</p><figure class=\"image\"><img style=\"aspect-ratio:3024/1494;\" src=\"https://storage.googleapis.com/beans-images/production/original/2024-08-02/2024-08-02_8d4e65e0-672d-428e-816d-fcacb05864db.jpeg\" width=\"3024\" height=\"1494\"></figure><figure class=\"image\"><img style=\"aspect-ratio:3024/1508;\" src=\"https://storage.googleapis.com/beans-images/production/original/2024-08-02/2024-08-02_58695d06-f4f3-4aa0-9515-dae46e26faa0.jpeg\" width=\"3024\" height=\"1508\"></figure>",
+      "<p><b>Step 3:</b> Click Assets &gt; Drivers and Dispatchers.</p><figure class=\"image\"><img style=\"aspect-ratio:1625/934;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_66c2da89-4650-4c7a-b91e-653f5da5c050.png\" width=\"1625\" height=\"934\"></figure>",
+      "<p><b>Step 4:</b> Click the circle with checkmark icon to highlight the entire list of drivers; if an employee does not need the safety training, click on the row of that employee to unhighlight the individual (e.g., a manager who doesn’t deliver).</p><figure class=\"image\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_d8c4b2fb-d1c3-4d58-a238-a562fd5c0a63.jpeg\" width=\"1710\" height=\"849\"></figure>",
+      "<p><b>Step 5:</b> Click \"Modify Driver.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1714/845;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_123a6f2e-bfec-4d9f-a98b-b04d5da79afc.jpeg\" width=\"1714\" height=\"845\"></figure>",
+      "<p><b>Step 6:</b> Check the box \"Enroll in Safety Training.\" &nbsp;Click \"Save.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1713/846;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_b78737c2-3780-45aa-b092-2d28a8138ce9.jpeg\" width=\"1713\" height=\"846\"></figure>",
+      "<p><b>Step 7:</b> Drivers will be enrolled in safety and you will see a notification under each driver which says \"Safety Training is turned on.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_b5e3ba99-ac90-492d-9760-f86ed139988a.jpeg\" width=\"1710\" height=\"849\"></figure>"
     ],
     "tutorial_url": "",
     "display_option_tags": "fedex",
+    "account_buids": "",
+    "date_str": "2023-12-1",
+    "timestamp": 1718697600
+  },
+  {
+    "id": "how-to-optimize-a-route",
+    "title": "How to Optimize a Route",
+    "summary": "The tutorial guides you through the process of optimizing a route by selecting the first stop.",
+    "platform": "Dispatch",
+    "description": [
+      "<p><strong>Step 1:</strong> On the Routes page, click on the desired route number to open the detailed view of the route.</p><figure class=\"image\"><img style=\"aspect-ratio:1716/843;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_8540c38d-3264-4278-ac03-2ddceba8020c.jpeg\" width=\"1716\" height=\"843\"></figure>",
+      "<p><strong>Step 2:</strong> Identify the desired first stop and then click the \"Optimize Route\" button.</p><figure class=\"image\"><img style=\"aspect-ratio:1717/842;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_293ff863-8c20-4b8c-bf4b-1f328f358f1c.jpeg\" width=\"1717\" height=\"842\"></figure>",
+      "<p><strong>Step 3: </strong>Use the “Start” dropdown menu, choose \"Custom\", and type in the address of the first stop. &nbsp;The address pin will generate; click on the pin to select.</p><figure class=\"image\"><img style=\"aspect-ratio:1717/842;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_27352865-607e-4da4-b6f8-267615c427d5.jpeg\" width=\"1717\" height=\"842\"></figure><figure class=\"image\"><img style=\"aspect-ratio:1711/848;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_1a39d17e-091a-41fb-8d06-8dc2282636b3.jpeg\" width=\"1711\" height=\"848\"></figure>",
+      "<p><strong>Step 4: </strong>Click \"Optimize.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1715/844;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_cd9d1836-60fa-4459-a151-32e72e064a5d.jpeg\" width=\"1715\" height=\"844\"></figure>",
+    ],
+    "tutorial_url": "https://beans-ai.portal.trainn.co/share/kTXAAiygS9aughaFVrnhpg",
+    "display_option_tags": "",
     "account_buids": "",
     "date_str": "2023-12-1",
     "timestamp": 1718697600
