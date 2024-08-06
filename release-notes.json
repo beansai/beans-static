@@ -67,7 +67,7 @@
   },
  {
     "id": "updated-driver-profile",
-    "title": "Updated driver and dispatcher profile",
+    "title": "Updated driver profiles",
     "summary": "We are excited to announce significant enhancements to the Driver Profile feature, designed to provide comprehensive insights into driver details, performance metrics, and safety records. These improvements aim to optimize fleet management and enhance overall operational efficiency.",
     "platform": "Dispatch",
     "description": [
@@ -99,7 +99,7 @@
   },
   {
     "id": "turn-on-safety-for-drivers",
-    "title": "How to Turn On Safety Training for Drivers",
+    "title": "Safety Training for Drivers",
     "summary": "The tutorial guides you through the process of enrolling drivers in safety training within the Dispatch Console.",
     "platform": "Dispatch",
     "description": [
