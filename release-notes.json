@@ -52,7 +52,7 @@
     "timestamp": 1718629290
   },
   {
-    "id": "1234",
+    "id": "live-status-map",
     "title": "Live Status > Map",
     "summary": "We've updated the functionality of the Map (aka All Stops) view under live status. This will allow users to filter and identify operationally relevant stops faster. The feature applies to all account types but may be most useful for ISPs with Express stops. This will be in production starting 5/24",
     "platform": "Dispatch",
@@ -65,8 +65,24 @@
     "date_str": "2024-05-25",
     "timestamp": 1718886258
   },
+ {
+    "id": "updated-driver-profile",
+    "title": "Updated driver and dispatcher profile",
+    "summary": "We are excited to announce significant enhancements to the Driver Profile feature, designed to provide comprehensive insights into driver details, performance metrics, and safety records. These improvements aim to optimize fleet management and enhance overall operational efficiency.",
+    "platform": "Dispatch",
+    "description": [
+      "<p><span><b>Step 1:</b> Click on 'Assets > Drivers and Dispatchers' to navigate to drivers.</span><br>&nbsp;</p><figure class=\"image\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-06/2024-08-06_fd156619-9d1d-4b92-976a-0b80ad06b324.png\"></figure>",
+      "<p><span><b>Step 2:</b> To add details such as Driver's License expiry, notes, and other qualifications click on 'Modify Driver'</span><br>&nbsp;</p><figure class=\"image\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-06/2024-08-06_c8af0149-67b8-49ee-a556-dd9a9431f769.png\"></figure>",
+      "<p><span><b>Step 3:</b> To see driver performance and safety status, click on the corresponding sections in the .</span><br>&nbsp;</p><figure class=\"image\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-06/2024-08-06_4e6ba5d7-af9d-41a3-9e26-0147e18c229c.png\"></figure>"
+    ],
+    "tutorial_url": "https://beans-ai.portal.trainn.co/share/mojSI313ImBHXffVNzKwdw/embed?mode=interactive",
+    "display_option_tags": "",
+    "account_buids": "",
+    "date_str": "2024-04-11",
+    "timestamp": 1718697600
+  },
   {
-    "id": "1001",
+    "id": "moving-location-pins",
     "title": "Moving Location Pins",
     "summary": "To fix any locations on a particular route, you can just drag the pin to the correct location and save it. That will be the new location for that address in the future, across all routes.",
     "platform": "Dispatch",
@@ -74,7 +90,7 @@
       "<p><span><b>Step 1:</b> On the map, zoom in to the location of the pin you want to move.</span><br>&nbsp;</p><figure class=\"image\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-07-31/2024-07-31_d53cd050-0987-4c38-9649-b2e23fa6a521.jpeg\"></figure>",
       "<p><span><b>Step 2:</b> Click on the pin until the address information appears, that you would like to move.</span><br>&nbsp;</p><figure class=\"image\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-01/2024-08-01_28947960-dd54-44aa-b3f1-386a20ae26b0.jpeg\"></figure>",
       "<p><span><b>Step 3:</b> Move the pin to the desired location. Click “Save.”.</span><br>&nbsp;</p><figure class=\"image\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-07-31/2024-07-31_456a9e22-61f7-49bd-8bb8-5b89adb6cdde.jpeg\"></figure>"
-    ],
+     ],
     "tutorial_url": "https://beans-ai.portal.trainn.co/share/XkJ923N7h7o1sk8mP42dew/embed?mode=interactive",
     "display_option_tags": "",
     "account_buids": "",
@@ -90,12 +106,12 @@
       "<p><b>Step 1:</b> In the Dispatch Console: Settings &gt; Preferences.</p><figure class=\"image\"><img style=\"aspect-ratio:1718/841;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_93d0af82-0727-4a26-8c6d-08ceecb5ba45.jpeg\" width=\"1718\" height=\"841\"></figure>",
       "<p><b>Step 2:</b> Choose \"Safety.\" &nbsp;Click \"Turn on safety training.\"</p><figure class=\"image\"><img style=\"aspect-ratio:3024/1494;\" src=\"https://storage.googleapis.com/beans-images/production/original/2024-08-02/2024-08-02_8d4e65e0-672d-428e-816d-fcacb05864db.jpeg\" width=\"3024\" height=\"1494\"></figure><figure class=\"image\"><img style=\"aspect-ratio:3024/1508;\" src=\"https://storage.googleapis.com/beans-images/production/original/2024-08-02/2024-08-02_58695d06-f4f3-4aa0-9515-dae46e26faa0.jpeg\" width=\"3024\" height=\"1508\"></figure>",
       "<p><b>Step 3:</b> Click Assets &gt; Drivers and Dispatchers.</p><figure class=\"image\"><img style=\"aspect-ratio:1625/934;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_66c2da89-4650-4c7a-b91e-653f5da5c050.png\" width=\"1625\" height=\"934\"></figure>",
-      "<p><b>Step 4:</b> Click the circle with checkmark icon to highlight the entire list of drivers; if an employee does not need the safety training, click on the row of that employee to unhighlight the individual (e.g., a manager who doesn’t deliver).</p><figure class=\"image\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_d8c4b2fb-d1c3-4d58-a238-a562fd5c0a63.jpeg\" width=\"1710\" height=\"849\"></figure>",
+      "<p><b>Step 4:</b> Click the circle with the checkmark icon to highlight the entire list of drivers; if an employee does not need the safety training, click on the row of that employee to unhighlight the individual (e.g., a manager who doesn’t deliver).</p><figure class=\"image\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_d8c4b2fb-d1c3-4d58-a238-a562fd5c0a63.jpeg\" width=\"1710\" height=\"849\"></figure>",
       "<p><b>Step 5:</b> Click \"Modify Driver.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1714/845;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_123a6f2e-bfec-4d9f-a98b-b04d5da79afc.jpeg\" width=\"1714\" height=\"845\"></figure>",
       "<p><b>Step 6:</b> Check the box \"Enroll in Safety Training.\" &nbsp;Click \"Save.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1713/846;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_b78737c2-3780-45aa-b092-2d28a8138ce9.jpeg\" width=\"1713\" height=\"846\"></figure>",
       "<p><b>Step 7:</b> Drivers will be enrolled in safety and you will see a notification under each driver which says \"Safety Training is turned on.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1710/849;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-02/2024-08-02_b5e3ba99-ac90-492d-9760-f86ed139988a.jpeg\" width=\"1710\" height=\"849\"></figure>"
     ],
-    "tutorial_url": "https://beans-ai.portal.trainn.co/share/ib6DEx4beohOB0EJxS7JAg",
+    "tutorial_url": "https://beans-ai.portal.trainn.co/share/ib6DEx4beohOB0EJxS7JAg/embed?mode=interactive",
     "display_option_tags": "fedex",
     "account_buids": "",
     "date_str": "2023-12-1",
@@ -103,16 +119,17 @@
   },
   {
     "id": "how-to-optimize-a-route",
-    "title": "How to Optimize a Route",
+    "title": "Optimization Update",
     "summary": "The tutorial guides you through the process of optimizing a route by selecting the first stop.",
     "platform": "Dispatch",
     "description": [
       "<p><strong>Step 1:</strong> On the Routes page, click on the desired route number to open the detailed view of the route.</p><figure class=\"image\"><img style=\"aspect-ratio:1716/843;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_8540c38d-3264-4278-ac03-2ddceba8020c.jpeg\" width=\"1716\" height=\"843\"></figure>",
       "<p><strong>Step 2:</strong> Identify the desired first stop and then click the \"Optimize Route\" button.</p><figure class=\"image\"><img style=\"aspect-ratio:1717/842;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_293ff863-8c20-4b8c-bf4b-1f328f358f1c.jpeg\" width=\"1717\" height=\"842\"></figure>",
       "<p><strong>Step 3: </strong>Use the “Start” dropdown menu, choose \"Custom\", and type in the address of the first stop. &nbsp;The address pin will generate; click on the pin to select.</p><figure class=\"image\"><img style=\"aspect-ratio:1717/842;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_27352865-607e-4da4-b6f8-267615c427d5.jpeg\" width=\"1717\" height=\"842\"></figure><figure class=\"image\"><img style=\"aspect-ratio:1711/848;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_1a39d17e-091a-41fb-8d06-8dc2282636b3.jpeg\" width=\"1711\" height=\"848\"></figure>",
-      "<p><strong>Step 4: </strong>Click \"Optimize.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1715/844;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_cd9d1836-60fa-4459-a151-32e72e064a5d.jpeg\" width=\"1715\" height=\"844\"></figure>"
+      "<p><strong>Step 4: </strong>Click \"Optimize.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1715/844;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_cd9d1836-60fa-4459-a151-32e72e064a5d.jpeg\" width=\"1715\" height=\"844\"></figure>",
+      "<p><strong>Step 5: </strong>You can also select the optimization algorithm from Preferences by choosing 'User more intuitive ordering'.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1715/844;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-06/2024-08-06_45d7e7cb-b176-4e72-b8ce-acd6d54c6239.png\" width=\"1715\" height=\"844\"></figure>"
     ],
-    "tutorial_url": "https://beans-ai.portal.trainn.co/share/kTXAAiygS9aughaFVrnhpg",
+    "tutorial_url": "https://beans-ai.portal.trainn.co/share/kTXAAiygS9aughaFVrnhpg/embed?mode=interactive",
     "display_option_tags": "",
     "account_buids": "",
     "date_str": "2023-12-1",
@@ -120,7 +137,7 @@
   },
   {
     "id": "how-to-generate-mmr",
-    "title": "How to Generate Reports - MMRs",
+    "title": "MMRs Reports",
     "summary": "Beans Route makes generating MMR reports simple. Upload a digital signature in your account preferences to have the signature generate on the report. If you have vehicles in multiple warehouses, create vehicle groups so each warehouse can prepare their own MMRs. Best practices include entering maintenance records as you receive them throughout the month and when entering records selecting the actual date of service.",
     "platform": "Dispatch",
     "description": [
@@ -140,7 +157,7 @@
       "<p><strong>Step 4:</strong> Click the \"Generate Report\" button.</p><figure class=\"image\"><img style=\"aspect-ratio:1713/846;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_e042c21a-78c7-4c49-af54-cdc6b7ccba72.jpeg\" width=\"1713\" height=\"846\"></figure>",
       "<p><strong>Step 5:</strong> The MMRs will be generated in PDF format. &nbsp;Click the link to view the MMRs to print or to download and email to your terminal.</p><figure class=\"image\"><img style=\"aspect-ratio:1708/851;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_2826bd19-6af2-4cd2-8e2d-d04a38c72d50.jpeg\" width=\"1708\" height=\"851\"></figure><figure class=\"image\"><img style=\"aspect-ratio:1704/855;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_8b086c69-5e84-428f-bed1-6937bdd5d078.jpeg\" width=\"1704\" height=\"855\"></figure>"
     ],
-    "tutorial_url": "https://beans-ai.portal.trainn.co/share/UXYNMdUU7c9wRrdvq8wYyQ",
+    "tutorial_url": "https://beans-ai.portal.trainn.co/share/UXYNMdUU7c9wRrdvq8wYyQ/embed?mode=interactive",
     "display_option_tags": "fedex",
     "account_buids": "",
     "date_str": "2023-12-1",
@@ -148,7 +165,7 @@
   },
   {
     "id": "how-to-generate-reports-timesheets",
-    "title": "How to Generate Reports - Timesheets",
+    "title": "Timesheets Reports",
     "summary": "We recommend using the STD version of the timesheet report which gives you clock in, clock out, and total hours for each driver. The PDF, CSV, and XLS reports give only the total hours. You choose the time period for the report.  *To deduct breaks from daily hours follow instructions below (steps 7 - 9) before generating the report.",
     "platform": "Dispatch",
     "description": [
@@ -163,7 +180,7 @@
       "<p><strong>Step 9:</strong> Turn on the option \"Subtract break hours from paid hours in reports\" and click \"save\"</p><figure class=\"image\"><img style=\"aspect-ratio:1708/851;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_bcfd2fba-e230-4b2b-ab91-95f5c9a232a7.jpeg\" width=\"1708\" height=\"851\"></figure>",
       "<p><strong>Understanding the STD Timesheet Report</strong></p><p>Clock in and clock out times are calculated in minutes using military time. &nbsp;Using line #2 as an example on 5/28/22: &nbsp;Xavian Washburn clocked in at 7:22 a.m. or 38 minutes before 8:00 a.m. &nbsp;He clocked out at 17:10 p.m. or 10 minutes after 5:00 p.m.:</p><p>8:00 a.m. to 5:00 p.m. = 9 hours</p><p>38 minutes before 8:00 a.m. + 10 minutes after 5:00 p.m. = 48 minutes</p><p>Therefore: Xavian Washburn worked a total of 9 hours and 48 minutes.</p><p>The total hours and paid hours are calculated in 1/10 of an hour. &nbsp;A tenth of an hour is 6 minutes. &nbsp;Using the example of Xavian Washburn, his total hours of 9.8 = 9 hours and 8/10 of an hour (8 x 6= 48).</p><figure class=\"image\"><img style=\"aspect-ratio:1358/1201;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_8974256c-d03a-44ef-bf7b-ad98c7f2ea52.jpeg\" width=\"1358\" height=\"1201\"></figure>"
     ],
-    "tutorial_url": "https://beans-ai.portal.trainn.co/share/MkKCwYIl3T7uZlpRwD6ijw",
+    "tutorial_url": "https://beans-ai.portal.trainn.co/share/MkKCwYIl3T7uZlpRwD6ijw/embed?mode=interactive",
     "display_option_tags": "",
     "account_buids": "",
     "date_str": "2023-12-1",
