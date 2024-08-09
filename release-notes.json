@@ -81,6 +81,24 @@
     "date_str": "2024-04-11",
     "timestamp": 1718697600
   },
+   {
+    "id": "how-to-optimize-a-route",
+    "title": "Optimization Update",
+    "summary": "The tutorial guides you through the process of optimizing a route by selecting the first stop.",
+    "platform": "Dispatch",
+    "description": [
+      "<p><strong>Step 1:</strong> On the Routes page, click on the desired route number to open the detailed view of the route.</p><figure class=\"image\"><img style=\"aspect-ratio:1716/843;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_8540c38d-3264-4278-ac03-2ddceba8020c.jpeg\" width=\"1716\" height=\"843\"></figure>",
+      "<p><strong>Step 2:</strong> Identify the desired first stop and then click the \"Optimize Route\" button.</p><figure class=\"image\"><img style=\"aspect-ratio:1717/842;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_293ff863-8c20-4b8c-bf4b-1f328f358f1c.jpeg\" width=\"1717\" height=\"842\"></figure>",
+      "<p><strong>Step 3: </strong>Use the “Start” dropdown menu, choose \"Custom\", and type in the address of the first stop. &nbsp;The address pin will generate; click on the pin to select.</p><figure class=\"image\"><img style=\"aspect-ratio:1717/842;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_27352865-607e-4da4-b6f8-267615c427d5.jpeg\" width=\"1717\" height=\"842\"></figure><figure class=\"image\"><img style=\"aspect-ratio:1711/848;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_1a39d17e-091a-41fb-8d06-8dc2282636b3.jpeg\" width=\"1711\" height=\"848\"></figure>",
+      "<p><strong>Step 4: </strong>Click \"Optimize.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1715/844;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_cd9d1836-60fa-4459-a151-32e72e064a5d.jpeg\" width=\"1715\" height=\"844\"></figure>",
+      "<p><strong>Step 5: </strong>You can also select the optimization algorithm from Preferences by choosing 'Use more intuitive ordering'.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1715/844;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-06/2024-08-06_45d7e7cb-b176-4e72-b8ce-acd6d54c6239.png\" width=\"1715\" height=\"844\"></figure>"
+    ],
+    "tutorial_url": "https://beans-ai.portal.trainn.co/share/kTXAAiygS9aughaFVrnhpg/embed?mode=interactive",
+    "display_option_tags": "",
+    "account_buids": "",
+    "date_str": "2024-1-1",
+    "timestamp": 1718697600
+  },
   {
     "id": "moving-location-pins",
     "title": "Moving Location Pins",
@@ -117,24 +135,7 @@
     "date_str": "2023-12-1",
     "timestamp": 1718697600
   },
-  {
-    "id": "how-to-optimize-a-route",
-    "title": "Optimization Update",
-    "summary": "The tutorial guides you through the process of optimizing a route by selecting the first stop.",
-    "platform": "Dispatch",
-    "description": [
-      "<p><strong>Step 1:</strong> On the Routes page, click on the desired route number to open the detailed view of the route.</p><figure class=\"image\"><img style=\"aspect-ratio:1716/843;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_8540c38d-3264-4278-ac03-2ddceba8020c.jpeg\" width=\"1716\" height=\"843\"></figure>",
-      "<p><strong>Step 2:</strong> Identify the desired first stop and then click the \"Optimize Route\" button.</p><figure class=\"image\"><img style=\"aspect-ratio:1717/842;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_293ff863-8c20-4b8c-bf4b-1f328f358f1c.jpeg\" width=\"1717\" height=\"842\"></figure>",
-      "<p><strong>Step 3: </strong>Use the “Start” dropdown menu, choose \"Custom\", and type in the address of the first stop. &nbsp;The address pin will generate; click on the pin to select.</p><figure class=\"image\"><img style=\"aspect-ratio:1717/842;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_27352865-607e-4da4-b6f8-267615c427d5.jpeg\" width=\"1717\" height=\"842\"></figure><figure class=\"image\"><img style=\"aspect-ratio:1711/848;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_1a39d17e-091a-41fb-8d06-8dc2282636b3.jpeg\" width=\"1711\" height=\"848\"></figure>",
-      "<p><strong>Step 4: </strong>Click \"Optimize.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1715/844;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-03/2024-08-03_cd9d1836-60fa-4459-a151-32e72e064a5d.jpeg\" width=\"1715\" height=\"844\"></figure>",
-      "<p><strong>Step 5: </strong>You can also select the optimization algorithm from Preferences by choosing 'Use more intuitive ordering'.\"</p><figure class=\"image\"><img style=\"aspect-ratio:1715/844;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-08-06/2024-08-06_45d7e7cb-b176-4e72-b8ce-acd6d54c6239.png\" width=\"1715\" height=\"844\"></figure>"
-    ],
-    "tutorial_url": "https://beans-ai.portal.trainn.co/share/kTXAAiygS9aughaFVrnhpg/embed?mode=interactive",
-    "display_option_tags": "",
-    "account_buids": "",
-    "date_str": "2024-1-1",
-    "timestamp": 1718697600
-  },
+
   {
     "id": "how-to-generate-mmr",
     "title": "MMRs Reports",
