@@ -1,5 +1,19 @@
 [
   {
+    "id": "polygon-tool-routes-page",
+    "title": "Utilizing the Polygon Tool on the Routes Page",
+    "summary": "We are excited to introduce a new feature that enhances the functionality of our routes page: the Polygon Tool. This tool will streamline your route management process by allowing you to easily select and modify stops directly on the map.",
+    "platform": "Dispatch",
+    "description": [
+      "<p><strong>Key Features:</strong></p><p>&nbsp;</p><p><strong>Easy Access to Polygon Tool:</strong></p><ul><li><p>The Polygon Tool can be accessed by clicking the polygon icon located at the top of the map on the routes page.</p><figure class=\"image\"><img style=\"aspect-ratio:1083/1476;\" src=\"https://storage.googleapis.com/beans-images/production/large/2024-09-02/2024-09-02_cfa14c41-70f2-46de-9e96-bdffa701302e.png\" width=\"1083\" height=\"1476\"></figure></li></ul>"
+    ],
+    "tutorial_url": "",
+    "display_option_tags": "",
+    "account_buids": "",
+    "date_str": "2024-08-17",
+    "timestamp": 0
+  },
+  {
     "id": "zone-planner",
     "title": "Zone Planner",
     "summary": "We've added the ability for users to prioritize certain geographical areas while optimizing the route. Users can now create zones in an order of priority they want the drivers to follow while completing the stops. Every zone plan is tied to a specific route, and is completely configurable.",
