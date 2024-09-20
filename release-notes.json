@@ -1,5 +1,23 @@
 [
   {
+    "id": "creating-preset-filters",
+    "title": "Creating and Managing Preset Filters",
+    "summary": "We’re excited to announce the new Preset Filters feature, designed to simplify your workflow. This enhancement allows users to create, save, and manage custom filter presets directly on the dispatch console, making it easier to toggle between frequently used filter settings. With just a few clicks, you can update and apply filters, streamlining your operations and saving valuable time.",
+    "platform": "Dispatch",
+    "description": [
+      "<p><strong>Step 1:</strong> To create a new Preset Filter, Click the plus icon to add a new filter on the main dashboard.</p><figure class=\"image\"><img style=\"aspect-ratio:1920/908;\" src=\"https://storage.googleapis.com/beans-images/production/original/2024-09-20/2024-09-20_9a454213-d964-49f2-bdd5-c7f1248f8516.jpg\" width=\"1920\" height=\"908\"></figure>",
+      "<p><strong>Step 2:</strong> Set all the relevant filters that you'd like to use.</p><figure class=\"image\"><img style=\"aspect-ratio:1920/908;\" src=\"https://storage.googleapis.com/beans-images/production/original/2024-09-20/2024-09-20_69d14a06-1091-406d-a180-21ddead38ee9.jpg\" width=\"1920\" height=\"908\"></figure>",
+      "<p><strong>Step 3:</strong> Click the add button to apply the new preset filter.</p><figure class=\"image\"><img style=\"aspect-ratio:1920/908;\" src=\"https://storage.googleapis.com/beans-images/production/original/2024-09-20/2024-09-20_5ab049ca-3227-4853-af94-6a765fde2789.jpg\" width=\"1920\" height=\"908\"></figure>",
+      "<p><strong>Step 4:</strong> If you make changes to the preset filter, you can simply click the save icon to update the selection for that filter.</p><figure class=\"image\"><img style=\"aspect-ratio:1920/908;\" src=\"https://storage.googleapis.com/beans-images/production/original/2024-09-20/2024-09-20_b3fbb16a-44d0-46ac-b078-848f29ccf122.jpg\" width=\"1920\" height=\"908\"></figure>",
+      "<p><strong>Step 5:</strong> You can toggle between the default view and saved Preset Filters by selecting them from the drop-down.</p><figure class=\"image\"><img style=\"aspect-ratio:1920/908;\" src=\"https://storage.googleapis.com/beans-images/production/original/2024-09-20/2024-09-20_85d6fca6-e4f9-4f6e-9dcc-d35eea432337.jpg\" width=\"1920\" height=\"908\"></figure>"
+    ],
+    "tutorial_url": "https://beans-ai.portal.trainn.co/share/qHAHk0zVYD7VMjE8hZkjpg/embed?mode=interactive",
+    "display_option_tags": "",
+    "account_buids": "",
+    "date_str": "2024-09-20",
+    "timestamp": 0
+  },
+  {
     "id": "polygon-tool-routes-page",
     "title": "Utilizing the Polygon Tool on the Routes Page",
     "summary": "We are excited to introduce a new feature that enhances the functionality of our routes page: the Polygon Tool. This tool will streamline your route management process by allowing you to easily select and modify stops directly on the map.",
