@@ -5,7 +5,6 @@
     "message": "FedEx IT is currently experiencing a data issue resulting in delayed data syncs. If you need assistance please reach out at support@beans.ai",
     "timeInSeconds": 10,
     "display_option_tags": "fedex"
-    "account_buids": "",
     "bg": "warning"
   }
 ]
