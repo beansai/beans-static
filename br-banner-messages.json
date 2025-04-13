@@ -3,7 +3,7 @@
     "id": "periodic-login",
     "icon": "fa fa-bullhorn",
     "message": "To comply with data security requirements, users may be asked to re-log in periodically starting April 14th.",
-    "timeInSeconds": 10000,
+    "timeInSeconds": 60,
     "display_option_tags": "",
     "account_buids": "",
     "bg": "primary"
