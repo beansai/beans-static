@@ -1,8 +1,8 @@
 [
   {
-    "id": "outage",
+    "id": "google-outage",
     "icon": "fa fa-bullhorn",
-    "message": "Service Alert: Google Outage Affecting Service: We’re currently seeing  service disruptions due to a widespread global outage with Google services, including Firebase.  Google’s team is actively working on a fix, and we’re monitoring the situation closely. You can track real-time status updates https://isdown.app/status/firebase",
+    "message": "We’re currently experiencing a service disruption that may prevent some drivers from logging in to Beans Route. This issue is due to a widespread global outage affecting several Google services, including Google Cloud and Firebase. Our team is closely monitoring the situation and exploring every possible workaround.",
     "timeInSeconds": 0,
     "display_option_tags": ""
     "account_buids": "",
