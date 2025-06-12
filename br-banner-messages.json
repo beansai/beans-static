@@ -1,12 +1,12 @@
 [
   {
-    "id": "google-outage-temporary-resolved",
+    "id": "google-outage-temporary-resolved-2",
     "icon": "fa fa-bullhorn",
     "message": "Login access restored via temporary workarounds. Drivers can now begin signing in and resume normal use. The underlying Google Cloud and Firebase outage remains unresolved, and we’re actively monitoring the situation.",
     "timeInSeconds": 0,
     "display_option_tags": "",
     "account_buids": "",
-    "bg": "warning"
+    "bg": "secondary"
   },
   {
     "id": "google-outage",
