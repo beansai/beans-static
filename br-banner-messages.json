@@ -1,5 +1,14 @@
 [
   {
+    "id": "google-outage-temporary-resolved",
+    "icon": "fa fa-bullhorn",
+    "message": "Login access restored via temporary workarounds. Drivers can now begin signing in and resume normal use. The underlying Google Cloud and Firebase outage remains unresolved, and we’re actively monitoring the situation.",
+    "timeInSeconds": 0,
+    "display_option_tags": "",
+    "account_buids": "",
+    "bg": "warning"
+  },
+  {
     "id": "google-outage",
     "icon": "fa fa-bullhorn",
     "message": "We’re currently experiencing a service disruption that may prevent some drivers from logging in to Beans Route. This issue is due to a widespread global outage affecting several Google services, including Google Cloud and Firebase. Our team is closely monitoring the situation and exploring every possible workaround.",
