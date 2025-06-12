@@ -4,7 +4,7 @@
     "icon": "fa fa-bullhorn",
     "message": "We’re currently experiencing a service disruption that may prevent some drivers from logging in to Beans Route. This issue is due to a widespread global outage affecting several Google services, including Google Cloud and Firebase. Our team is closely monitoring the situation and exploring every possible workaround.",
     "timeInSeconds": 0,
-    "display_option_tags": ""
+    "display_option_tags": "",
     "account_buids": "",
     "bg": "danger"
   }
