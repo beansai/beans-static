@@ -1,0 +1,93 @@
+[
+    {
+      "id": "driver-profile-overview-tutorial",
+      "title": "Updated Driver Profile Overview",
+      "summary": "This tutorial shows you how to navigate and manage driver profiles in BeansRoute. Learn how to access driver information, modify details, view performance metrics, and track safety training status. This comprehensive guide covers everything from basic profile management to detailed analytics including total stops, packages delivered, and safety compliance tracking.",
+      "platform": "Dispatch",
+      "description": "",
+      "trainn_url": "https://beans-ai.portal.trainn.co/share/mojSI313ImBHXffVNzKwdw/embed",
+      "display_option_tags": "fedex",
+      "category": "fedex-manager-tutorials",
+      "account_buids": "",
+      "date_str": "2025-05-22",
+      "timestamp": 1747958400
+    },
+    {
+      "id": "move-location-pins-dispatch-tutorial",
+      "title": "How to Move Location Pins in Dispatch",
+      "summary": "This tutorial shows you how to move location pins on the map in BeansRoute Dispatch. Learn how to access route details, zoom to specific locations, and drag-and-drop pins to correct addresses. This guide helps you fix incorrect pin locations and ensure accurate delivery addresses for your drivers.",
+      "platform": "Dispatch",
+      "description": "",
+      "trainn_url": "https://beans-ai.portal.trainn.co/share/XkJ923N7h7o1sk8mP42dew/embed",
+      "display_option_tags": "fedex",
+      "category": "fedex-manager-tutorials",
+      "account_buids": "",
+      "date_str": "2025-05-22",
+      "timestamp": 1747958400
+    },
+    {
+      "id": "add-vehicle-tutorial",
+      "title": "How to Add a Vehicle in BeansRoute",
+      "summary": "This tutorial shows you how to add new vehicles to your BeansRoute fleet. Learn how to navigate to the Assets section, access the Vehicles menu, and properly configure vehicle details including vehicle groups and warehouse assignments. This guide helps you expand your fleet and ensure all vehicles are properly registered in the system.",
+      "platform": "Dispatch",
+      "description": "",
+      "trainn_url": "https://beans-ai.portal.trainn.co/share/gh7ufTPgHEnSXS4uOawCTQ/embed",
+      "display_option_tags": "fedex",
+      "category": "fedex-manager-tutorials",
+      "account_buids": "",
+      "date_str": "2025-05-22",
+      "timestamp": 1747958400
+    },
+    {
+      "id": "generate-timesheet-report-tutorial",
+      "title": "How to Generate Timesheet Reports in BeansRoute",
+      "summary": "This tutorial shows you how to generate timesheet reports in BeansRoute. Learn how to navigate to the Assets section, access the Timesheets tab, select the Driver View, set date ranges, and download reports in your preferred format. This guide helps you create accurate timesheet reports for payroll and compliance purposes.",
+      "platform": "Dispatch",
+      "description": "",
+      "trainn_url": "https://beans-ai.portal.trainn.co/share/MkKCwYIl3T7uZlpRwD6ijw/embed",
+      "display_option_tags": "fedex",
+      "category": "fedex-manager-tutorials",
+      "account_buids": "",
+      "date_str": "2025-05-22",
+      "timestamp": 1747958400
+    },
+    {
+      "id": "generate-vehicle-records-maintenance-mmr-tutorial",
+      "title": "How to generate Reports - MMR",
+      "summary": "This comprehensive tutorial shows you how to manage vehicle records and maintenance in BeansRoute. Learn how to add maintenance and odometer records, toggle vehicle status between active and out of service, and generate MMR (Maintenance Management Report) reports. This guide covers everything from basic vehicle record management to comprehensive fleet maintenance reporting and status updates.",
+      "platform": "Dispatch",
+      "description": "",
+      "trainn_url": "https://beans-ai.portal.trainn.co/share/UXYNMdUU7c9wRrdvq8wYyQ/embed",
+      "display_option_tags": "fedex",
+      "category": "fedex-manager-tutorials",
+      "account_buids": "",
+      "date_str": "2025-05-22",
+      "timestamp": 1747958400
+    },
+    {
+      "id": "generate-pod-report-tutorial",
+      "title": "How to generate reports - POD",
+      "summary": "This tutorial shows you how to generate Proof of Delivery (POD) reports in BeansRoute. Learn how to navigate to the Reporting section, access the Archive tab, search for archived stops by date range, select specific routes, and download POD reports in PDF format. This guide helps you retrieve delivery confirmation reports for compliance and customer service purposes.",
+      "platform": "Dispatch",
+      "description": "",
+      "trainn_url": "https://beans-ai.portal.trainn.co/share/99MmG6jOkLPRG47i59tWKw/embed",
+      "display_option_tags": "fedex",
+      "category": "fedex-manager-tutorials",
+      "account_buids": "",
+      "date_str": "2025-05-22",
+      "timestamp": 1747958400
+    },
+    {
+      "id": "enable-safety-training-tutorial",
+      "title": "How to Enable Safety Training for Drivers",
+      "summary": "This tutorial shows you how to enable safety training for your drivers in BeansRoute. Learn how to navigate to Settings and Preferences, turn on safety training features, and enroll all drivers in safety training programs. This guide helps you ensure compliance with safety regulations and keep your drivers up-to-date with required training.",
+      "platform": "Dispatch",
+      "description": "",
+      "trainn_url": "",
+      "display_option_tags": "fedex",
+      "category": "fedex-manager-tutorials",
+      "account_buids": "",
+      "date_str": "2025-05-22",
+      "timestamp": 1747958400
+    }
+  ] 
