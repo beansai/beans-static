@@ -1,6 +1,6 @@
 [
     {
-      "id": "driver-profile-overview-tutorial",
+      "id": "driver-profile-overview",
       "title": "Updated Driver Profile Overview",
       "summary": "This tutorial shows you how to navigate and manage driver profiles in BeansRoute. Learn how to access driver information, modify details, view performance metrics, and track safety training status. This comprehensive guide covers everything from basic profile management to detailed analytics including total stops, packages delivered, and safety compliance tracking.",
       "platform": "Dispatch",
@@ -13,7 +13,7 @@
       "timestamp": 1747958400
     },
     {
-      "id": "move-location-pins-dispatch-tutorial",
+      "id": "move-location-pins-dispatch",
       "title": "How to Move Location Pins in Dispatch",
       "summary": "This tutorial shows you how to move location pins on the map in BeansRoute Dispatch. Learn how to access route details, zoom to specific locations, and drag-and-drop pins to correct addresses. This guide helps you fix incorrect pin locations and ensure accurate delivery addresses for your drivers.",
       "platform": "Dispatch",
@@ -26,7 +26,7 @@
       "timestamp": 1747958400
     },
     {
-      "id": "add-vehicle-tutorial",
+      "id": "add-vehicle",
       "title": "How to Add a Vehicle in BeansRoute",
       "summary": "Add new vehicles to your BeansRoute fleet. Navigate to the Assets section, access the Vehicles menu, and configure vehicle details including vehicle groups and warehouse assignments. Expand your fleet and ensure all vehicles are properly registered in the system.",
       "platform": "Dispatch",
@@ -39,7 +39,7 @@
       "timestamp": 1747958400
     },
     {
-      "id": "generate-timesheet-report-tutorial",
+      "id": "generate-timesheet-report",
       "title": "How to Generate Timesheet Reports in BeansRoute",
       "summary": "This tutorial shows you how to generate timesheet reports in BeansRoute. Learn how to navigate to the Assets section, access the Timesheets tab, select the Driver View, set date ranges, and download reports in your preferred format. This guide helps you create accurate timesheet reports for payroll and compliance purposes.",
       "platform": "Dispatch",
@@ -52,7 +52,7 @@
       "timestamp": 1747958400
     },
     {
-      "id": "generate-vehicle-records-maintenance-mmr-tutorial",
+      "id": "generate-vehicle-records-maintenance-mmr",
       "title": "How to generate Reports - MMR",
       "summary": "This comprehensive tutorial shows you how to manage vehicle records and maintenance in BeansRoute. Learn how to add maintenance and odometer records, toggle vehicle status between active and out of service, and generate MMR (Maintenance Management Report) reports. This guide covers everything from basic vehicle record management to comprehensive fleet maintenance reporting and status updates.",
       "platform": "Dispatch",
@@ -65,7 +65,7 @@
       "timestamp": 1747958400
     },
     {
-      "id": "generate-pod-report-tutorial",
+      "id": "generate-pod-report",
       "title": "How to generate reports - POD",
       "summary": "Generate Proof of Delivery (POD) reports in BeansRoute. Navigate to the Reporting section, access the Archive tab, search for archived stops by date range, select specific routes, and download POD reports in PDF format. Retrieve delivery confirmation reports for compliance and customer service purposes.",
       "platform": "Dispatch",
@@ -78,7 +78,7 @@
       "timestamp": 1747958400
     },
     {
-      "id": "enable-safety-training-tutorial",
+      "id": "enable-safety-training",
       "title": "How to Enable Safety Training for Drivers",
       "summary": "Enable safety training for your drivers in BeansRoute. Navigate to Settings and Preferences, turn on safety training features, and enroll all drivers in safety training programs. Ensure compliance with safety regulations and keep your drivers up-to-date with required training.",
       "platform": "Dispatch",
@@ -91,7 +91,7 @@
       "timestamp": 1747958400
     },
     {
-      "id": "syncing-fedex-data-beansroute-tutorial",
+      "id": "syncing-fedex-data-beansroute",
       "title": "Syncing FedEx Data with Beans Route",
       "summary": "This tutorial shows you how to sync FedEx data with BeansRoute. Learn how to access MyBizAccount, configure data subscriptions for delivery manifests, pickup manifests, and work area summaries, then connect your FedEx ID to BeansRoute for seamless data integration. This guide helps you set up the complete FedEx integration workflow from initial account access to final data synchronization.",
       "platform": "Dispatch",
@@ -104,7 +104,7 @@
       "timestamp": 1747958400
     },
     {
-      "id": "reading-dispatch-routes-pages-tutorial",
+      "id": "reading-dispatch-routes-pages",
       "title": "Reading the Dispatch and Routes Pages",
       "summary": "This tutorial shows you how to navigate the Dispatch and Routes pages in BeansRoute. Learn how to view summary metrics, toggle between different route views, apply warehouse and contract filters, open individual routes for detailed information, and access live statistics and stop details. This guide helps you explore route cards, map pins, and package release information for comprehensive route management.",
       "platform": "Dispatch",
@@ -117,7 +117,7 @@
       "timestamp": 1747958400
     },
     {
-      "id": "adding-driver-beansroute-tutorial",
+      "id": "adding-driver-beansroute",
       "title": "Adding a Driver in Beans Route",
       "summary": "This tutorial shows you how to add new drivers to your BeansRoute system. Learn how to navigate to the Assets section, access the Drivers & Dispatchers tab, and enter comprehensive driver information including contact details, employee ID, manager assignments, and warehouse assignments. This guide helps you set up driver profiles with proper credentials and safety training enrollment.",
       "platform": "Dispatch",
@@ -130,7 +130,7 @@
       "timestamp": 1747958400
     },
     {
-      "id": "timesheets-create-schedule-tutorial",
+      "id": "timesheets-create-schedule",
       "title": "How to use Timesheets to create a Schedule",
       "summary": "This tutorial shows you how to create driver schedules using the Timesheets feature in BeansRoute. Learn how to navigate to the Assets section, access the Timesheets option, select days of the week, assign drivers to specific routes, and copy schedules to future weeks. This guide helps you efficiently manage weekly driver assignments and maintain consistent scheduling across your fleet operations.",
       "platform": "Dispatch",
@@ -143,7 +143,7 @@
       "timestamp": 1747958400
     },
     {
-      "id": "optimize-route-tutorial",
+      "id": "optimize-route",
       "title": "How to optimize a Route",
       "summary": "This tutorial shows you how to optimize routes in BeansRoute for maximum efficiency. Learn how to access route details, view the route path and stops on the map, and use the route optimization feature to reorder stops for better delivery sequences. This guide helps you configure start and end points, including custom addresses, to create the most efficient route paths for your drivers.",
       "platform": "Dispatch",
@@ -157,7 +157,7 @@
     },
 
     {
-      "id": "reading-dispatch-routes-pages-guide-tutorial",
+      "id": "reading-dispatch-routes-pages-guide",
       "title": "Reading the Dispatch and Routes Pages",
       "summary": "This tutorial shows you how to navigate and understand the Dispatch and Routes pages in BeansRoute. Learn how to view summary metrics, toggle between different route view formats, apply warehouse and contract filters, open individual routes for detailed information, and access live statistics and stop details. This guide helps you explore route cards, map pins, package release information, and delivery timeliness data for comprehensive route management and monitoring.",
       "platform": "Dispatch",
@@ -170,7 +170,7 @@
       "timestamp": 1747958400
     },
     {
-      "id": "syncing-fedex-data-beansroute-guide-tutorial",
+      "id": "syncing-fedex-data-beansroute-guide",
       "title": "Syncing FedEx Data with Beans Route",
       "summary": "This tutorial shows you how to sync FedEx data with BeansRoute for seamless integration. Learn how to access MyBizAccount, configure data subscriptions for delivery manifests, pickup manifests, and work area summaries, then connect your FedEx ID to BeansRoute. This guide helps you set up the complete FedEx integration workflow from initial login to final manifest synchronization.",
       "platform": "Dispatch",
