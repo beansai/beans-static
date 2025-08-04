@@ -137,7 +137,7 @@
       "description": "",
       "trainn_url": "https://beans-ai.portal.trainn.co/share/HWVv7EeHdiSwer1kLBs2vQ/embed",
       "display_option_tags": "fedex",
-      "category": "fedex-manager-onboarding",
+      "category": "fedex-manager-tutorials",
       "account_buids": "",
       "date_str": "2025-05-22",
       "timestamp": 1747958400
@@ -151,6 +151,19 @@
       "trainn_url": "https://beans-ai.portal.trainn.co/share/kTXAAiygS9aughaFVrnhpg/embed",
       "display_option_tags": "fedex",
       "category": "fedex-manager-onboarding",
+      "account_buids": "",
+      "date_str": "2025-05-22",
+      "timestamp": 1747958400
+    },
+    {
+      "id": "welcome-to-beansroute",
+      "title": "Welcome to Beansroute",
+      "summary": "This tutorial shows you how to sign in to the Beansroute app step by step. Learn how to open the app, click the login button, select sign in with email, enter your email address, and confirm successful login. This guide helps you avoid connection issues by using the correct sign-in method and ensures you're properly logged in to start using the app.",
+      "platform": "Dispatch",
+      "description": "",
+      "trainn_url": "https://beans-ai.portal.trainn.co/share/FprrjnO4E9uZZEIodGSv3A/embed",
+      "display_option_tags": "fedex",
+      "category": "fedex-manager-tutorials",
       "account_buids": "",
       "date_str": "2025-05-22",
       "timestamp": 1747958400
