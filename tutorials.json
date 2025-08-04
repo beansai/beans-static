@@ -156,8 +156,8 @@
       "timestamp": 1747958400
     },
     {
-      "id": "welcome-to-beansroute",
-      "title": "Welcome to Beansroute",
+      "id": "signing-into-beans-app",
+      "title": "Signing into Beans App",
       "summary": "This tutorial shows you how to sign in to the Beansroute app step by step. Learn how to open the app, click the login button, select sign in with email, enter your email address, and confirm successful login. This guide helps you avoid connection issues by using the correct sign-in method and ensures you're properly logged in to start using the app.",
       "platform": "Dispatch",
       "description": "",
