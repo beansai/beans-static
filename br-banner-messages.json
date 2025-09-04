@@ -1,11 +1,3 @@
 [
-  {
-    "id": "fedex-outage-1",
-    "icon": "fa fa-bullhorn",
-    "message": "FedEx API service disruption: we are collaborating with FedEx to resolve it asap.",
-    "timeInSeconds": 0,
-    "display_option_tags": "fedex",
-    "account_buids": "",
-    "bg": "danger"
-  }
+  
 ]
