@@ -1,6 +1,6 @@
 [
   {
-    "id": "fedex-outage",
+    "id": "fedex-outage-1",
     "icon": "fa fa-bullhorn",
     "message": "FedEx API service disruption: we are collaborating with FedEx to resolve it asap.",
     "timeInSeconds": 0,
