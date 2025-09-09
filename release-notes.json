@@ -4,15 +4,8 @@
     "title": "Setting the color for Pickups and Business Stops",
       "summary": "We're excited to announce the new Pin Color Configuration feature. Users can now customize pin colors for different types of stops directly in the User Interface settings, making it easier to distinguish between pickup and business stops at a glance.",
     "platform": "Dispatch",
-    "description": [
-      "<p><strong>Step 1:</strong> Click SETTINGS in the navigation bar.</p>",
-      "<p><strong>Step 2:</strong> Select Preferences from the dropdown menu.</p>",
-      "<p><strong>Step 3:</strong> In the sidebar, click on \"User Interface.\"</p>",
-      "<p><strong>Step 4:</strong> In the Pins Configuration section, You can update the colors of the pins by clicking on the color boxes</p>",
-      "<p><strong>Step 5:</strong> You can apply this color modification to other types of stops as well.</p>",
-      "<p><strong>Step 6:</strong> Once finished, click the \"Save\" button to apply the changes.</p>"
-    ],
-    "tutorial_url": "https://beans-ai.portal.trainn.co/share/mYDPqMjq77HbG9pTw1bUng/embed",
+    "description": "",
+    "tutorial_url": "https://beans-ai.portal.trainn.co/share/mYDPqMjq77HbG9pTw1bUng/embed?mode=interactive",
     "display_option_tags": "",
     "account_buids": "",
     "date_str": "2025-09-10",
