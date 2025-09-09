@@ -1,17 +1,5 @@
 [
   {
-    "id": "setting-color-stops",
-    "title": "Setting the color for Pickups and Business Stops",
-      "summary": "We're excited to announce the new Pin Color Configuration feature. Users can now customize pin colors for different types of stops directly in the User Interface settings, making it easier to distinguish between pickup and business stops at a glance.",
-    "platform": "Dispatch",
-    "description": "",
-    "tutorial_url": "https://beans-ai.portal.trainn.co/share/mYDPqMjq77HbG9pTw1bUng/embed?mode=interactive",
-    "display_option_tags": "",
-    "account_buids": "",
-    "date_str": "2025-09-10",
-    "timestamp": 1726012800
-  },
-  {
     "id": "creating-preset-filters",
     "title": "Creating and Managing Preset Filters",
     "summary": "We’re excited to announce the new Preset Filters feature, designed to simplify your workflow. This enhancement allows users to create, save, and manage custom filter presets directly on the dispatch console, making it easier to toggle between frequently used filter settings. With just a few clicks, you can update and apply filters, streamlining your operations and saving valuable time.",
