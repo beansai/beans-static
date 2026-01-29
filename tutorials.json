@@ -736,6 +736,17 @@
       "account_buids": "329865ff87f7411fb5fced02b3b07be7"
     }, 
     {
+      "id": "create-new-route",
+      "title": "Creating a New Route in the Dispatch Console",
+      "summary": "This tutorial shows you how to create a new route",
+      "platform": "Shipper Portal",
+      "description": "",
+      "trainn_url": "https://beans‑ai.portal.trainn.co/share/qWWALUrvD7g87w89aB5tig/embed",
+      "display_option_tags": "",
+      "category": "Shipper Portal",
+      "account_buids": "329865ff87f7411fb5fced02b3b07be7"
+    },
+    {
       "id": "all-stops-sorting",
       "title": "How to Use Sorting on the All Stops Page",
       "summary": "This tutorial explains how to use sorting options on the All Stops page in the BeansRoute app. Learn how to sort stops efficiently to view and manage deliveries in the order that best suits your workflow, helping FedEx drivers and regional users improve navigation and route handling.",
