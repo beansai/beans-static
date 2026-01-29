@@ -744,7 +744,9 @@
       "trainn_url": "https://beans‑ai.portal.trainn.co/share/qWWALUrvD7g87w89aB5tig/embed",
       "display_option_tags": "fedex;regionals",
       "category": "Dispatch Tutorials",
-      "account_buids": "329865ff87f7411fb5fced02b3b07be7"
+      "account_buids": "",
+      "date_str": "2025-12-22",
+      "timestamp": 1747958400
     },
     {
       "id": "all-stops-sorting",
