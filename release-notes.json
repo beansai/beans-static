@@ -1,17 +1,5 @@
 [
   {
-    "id": "warehouse-filters",
-    "title": "Creating and Managing Warehouse Filters",
-    "summary": "We’re excited to introduce the new Warehouse Filter feature, designed to streamline route management. This enhancement allows users to filter routes by Warehouse and Company directly from the Routes page. With just a few clicks, you can apply the desired filters and view only the relevant routes, improving efficiency and visibility.",
-    "platform": "Dispatch",
-    "description":"",
-    "tutorial_url": "https://beans-ai.portal.trainn.co/share/4ypeV1SGWhwcVslykFrubw/embed",
-    "display_option_tags": "",
-    "account_buids": "",
-    "date_str": "2026-02-12",
-    "timestamp": 1726816800
-  },
-  {
     "id": "creating-preset-filters",
     "title": "Creating and Managing Preset Filters",
     "summary": "We’re excited to announce the new Preset Filters feature, designed to simplify your workflow. This enhancement allows users to create, save, and manage custom filter presets directly on the dispatch console, making it easier to toggle between frequently used filter settings. With just a few clicks, you can update and apply filters, streamlining your operations and saving valuable time.",
