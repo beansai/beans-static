@@ -182,6 +182,19 @@
       "timestamp": 1770969600
     },
     {
+      "id": "driver-load-scan-yzer",
+      "title": "Driver Load Scan",
+      "summary": "",
+      "platform": "Mobile App",
+      "description": "",
+      "trainn_url": "https://beans-ai.portal.trainn.co/share/bA5rktkwY7JOkz4i9Pk91g/embed",
+      "display_option_tags": "",
+      "category": "App Onboarding",
+      "account_buids": "63b418f8a49b43168065863fbef2004a",
+      "date_str": "2026-02-14",
+      "timestamp": 1770969600
+    },
+    {
       "id": "viewing-assigned-routes-stop-lists-yzer",
       "title": "Viewing assigned routes and stop lists",
       "summary": "",
@@ -195,21 +208,8 @@
       "timestamp": 1770969600
     },
     {
-      "id": "route-optimization-yzer",
-      "title": "Route Optimization",
-      "summary": "",
-      "platform": "Mobile App",
-      "description": "",
-      "trainn_url": "https://beans-ai.portal.trainn.co/share/mDkxIhpaMJnme2SfdbYdhg/embed",
-      "display_option_tags": "",
-      "category": "App Onboarding",
-      "account_buids": "63b418f8a49b43168065863fbef2004a",
-      "date_str": "2026-02-14",
-      "timestamp": 1770969600
-    },
-    {
       "id": "proof-of-delivery-photo-capture-signature-yzer",
-      "title": "Proof of delivery – photo capture / Signature",
+      "title": "Release Scan & Proof of delivery",
       "summary": "",
       "platform": "Mobile App",
       "description": "",
