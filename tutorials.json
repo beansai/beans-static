@@ -247,6 +247,19 @@
       "timestamp": 1770969600
     },
     {
+      "id": "order-notes-acknowledgement-yzer",
+      "title": "Order notes acknowledgement",
+      "summary": "",
+      "platform": "Mobile App",
+      "description": "",
+      "trainn_url": "https://beans-ai.portal.trainn.co/share/bBe3PEnk8nSEfquKE3l9TA/embed",
+      "display_option_tags": "",
+      "category": "App Onboarding",
+      "account_buids": "63b418f8a49b43168065863fbef2004a",
+      "date_str": "2026-02-14",
+      "timestamp": 1770969600
+    },
+    {
       "id": "driver-load-scan-yzer",
       "title": "Driver Load Scan",
       "summary": "",
