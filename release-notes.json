@@ -1,5 +1,53 @@
 [
   {
+    "id": "isp-live-status-map",
+    "title": "Live Status Map",
+    "summary": "We’re excited to introduce the enhanced Live Status Map - a powerful tool that gives you a real-time view of your operations. Monitor driver locations, active routes, and delivery statuses across regions—all on an interactive map. With intuitive filters and detailed route insights, you can track progress, spot delays, and make informed, data-driven decisions with ease.",
+    "platform": "Dispatch",
+    "description": [
+      "<p><strong>Step 1:</strong> To access the Live Status Map feature, hover over Live Status on the dispatch console and select Map from the dropdown.</p><figure class=\"image\"><img src=\"https://storage.googleapis.com/beans-images/production/medium/2025-05-22/2025-05-22_60436d9d-a5ad-45b5-99d0-8cc7d7d700e9.png\" width=\"1920\" height=\"1080\"></figure>",
+      "<p><strong>Step 2:</strong> Set the relevant filters you’d like to use.</p><figure class=\"image\"><img src=\"https://storage.googleapis.com/beans-images/production/medium/2025-05-22/2025-05-22_8d438536-1219-461f-9fca-4464291b1d17.png\" width=\"1920\" height=\"1080\"></figure>",
+      "<p><strong>Filters Overview:</strong> Use the top and second filter headers to quickly narrow down stops based on priority, time sensitivity, and delivery status.</p><ul><li><strong>All:</strong> View all routes or tasks, regardless of status or priority.</li><li><strong>Time Definite:</strong> Highlights stops that must be completed within a specific time window.</li><li><strong>Express:</strong> Focus on express stops across routes.</li><li><strong>Pickups:</strong> Displays all scheduled or pending pickup tasks.</li></ul>"
+    ],
+    "tutorial_url": "https://beans-ai.portal.trainn.co/share/zEYZXKL4Ft3Vev87RlAcxg/embed?mode=interactive",
+    "display_option_tags": "",
+    "account_buids": "",
+    "date_str": "2025-05-22",
+    "timestamp": 1747898306673
+  },  
+  {
+    "id": "regional-live-status-map",
+    "title": "Live Status Map",
+    "summary": "We’re excited to introduce the enhanced Live Status Map - a powerful tool that gives you a real-time view of your operations. Monitor driver locations, active routes, and delivery statuses across regions—all on an interactive map. With intuitive filters and detailed route insights, you can track progress, spot delays, and make informed, data-driven decisions with ease.",
+    "platform": "Dispatch",
+    "description": [
+      "<p><strong>Step 1:</strong> To access the Live Status Map feature, hover over Live Status on the dispatch console and select Map from the dropdown.</p><figure class=\"image\"><img src=\"https://storage.googleapis.com/beans-images/production/medium/2025-05-22/2025-05-22_026efca6-e7d5-4b8e-b546-56f6515e4473.png\" width=\"1920\" height=\"1080\"></figure>",
+      "<p><strong>Step 2:</strong> Set the relevant filters you’d like to use.</p><figure class=\"image\"><img src=\"https://storage.googleapis.com/beans-images/production/medium/2025-05-22/2025-05-22_3b54ca4e-96ec-4990-b279-d4752833e296.png\" width=\"1920\" height=\"1080\"></figure>",
+      "<p><strong>Filters Overview:</strong> Use the top and second filter headers to quickly narrow down stops based on priority, time sensitivity, and delivery status.</p><ul><li><strong>All:</strong> View all routes or tasks, regardless of status or priority.</li><li><strong>Time Definite:</strong> Highlights stops that must be completed within a specific time window.</li><li><strong>High Priority:</strong> Focus on critical deliveries requiring urgent attention.</li><li><strong>Pickups:</strong> Displays all scheduled or pending pickup tasks.</li></ul>"
+    ],
+    "tutorial_url": "https://beans-ai.portal.trainn.co/share/O6VVO5q2hA38b9dJ15MCvg/embed?mode=interactive",
+    "display_option_tags": "",
+    "account_buids": "",
+    "date_str": "2025-05-22",
+    "timestamp": 1747898665677
+  },
+  {
+    "id": "control-center",
+    "title": "Control Center Dashboard",
+    "summary": "We’re excited to introduce the new Control Center, a centralized dashboard that provides a comprehensive overview of your dispatch operations. With interactive widgets that link directly to their respective pages, it offers seamless navigation and quicker access to key workflows.",
+    "platform": "Dispatch",
+    "description": [
+      "<p><strong>Accessing Control Center:</strong> Hover over Live Status on the dispatch console and select Control Center from the dropdown menu.</p><figure class=\"image\"><img src=\"https://storage.googleapis.com/beans-images/production/medium/2025-05-22/2025-05-22_5cf0c620-2746-4362-8ab1-fcf713407065.png\" width=\"1920\" height=\"1080\"></figure>",
+      "<p><strong>Today's Summary:</strong> Get a real-time snapshot of today’s dispatch performance - including route assignments, stop and package statuses, exceptions, warnings, and driver activity.</p><figure class=\"image\"><img src=\"https://storage.googleapis.com/beans-images/production/medium/2025-05-22/2025-05-22_3e308e76-c4d9-470f-9928-8fe7aafbd4f5.png\" width=\"1920\" height=\"1080\"></figure>",
+      "<p><strong>Action Items:</strong> Stay on top of urgent tasks like expiring licenses, overdue services, and unassigned routes. Action Items help you catch potential issues early, keep operations smooth, and ensure compliance - all in one place.</p><figure class=\"image\"><img src=\"https://storage.googleapis.com/beans-images/production/medium/2025-05-22/2025-05-22_5ea451bc-eafd-4c47-9dee-02f6aeada4bc.png\" width=\"1920\" height=\"1080\"></figure>"
+    ],
+    "tutorial_url": "https://beans-ai.portal.trainn.co/share/7e7g7mtAEUFadjgToLkWUg/embed?mode=interactive",
+    "display_option_tags": "",
+    "account_buids": "",
+    "date_str": "2025-05-22",
+    "timestamp": 1747899172498
+  },
+  {
     "id": "creating-preset-filters",
     "title": "Creating and Managing Preset Filters",
     "summary": "We’re excited to announce the new Preset Filters feature, designed to simplify your workflow. This enhancement allows users to create, save, and manage custom filter presets directly on the dispatch console, making it easier to toggle between frequently used filter settings. With just a few clicks, you can update and apply filters, streamlining your operations and saving valuable time.",
