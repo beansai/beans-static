@@ -1,13 +1,13 @@
 [
     {
-      "id": "upload-manifest",
-      "title": "Creating and Uploading a New Route Manifest",
-      "summary": "This tutorial shows you how to upload a new route manifestin BeansRoute. Learn how to click the Upload Manifest button, select your manifest file, enter a route name, select a mandatory warehouse, add a new route, proceed to the next step, This guide helps you successfully upload manifests for efficient route management.",
+      "id": "reading-dispatch-routes-pages",
+      "title": "Reading the Dispatch and Routes Pages",
+      "summary": "This tutorial shows you how to navigate the Dispatch and Routes pages in BeansRoute. Learn how to view summary metrics, toggle between different route views, apply warehouse and contract filters, open individual routes for detailed information, and access live statistics and stop details. This guide helps you explore route cards, map pins, and package release information for comprehensive route management.",
       "platform": "Dispatch",
       "description": "",
-      "trainn_url": "https://beans-ai.portal.trainn.co/share/yrbTsXQiD707bOn0fLqRZA/embed",
+      "trainn_url": "https://beans-ai.portal.trainn.co/share/sawZl6PkLWNIps0kFQxEmA/embed",
       "display_option_tags": "fedex;regionals",
-      "category": "Dispatch Tutorials",
+      "category": "Dispatch Console Onboarding",
       "account_buids": "",
       "date_str": "2025-05-22",
       "timestamp": 1747958400
@@ -24,6 +24,19 @@
       "account_buids": "017cdc3aeedb45428a5b9ec8b8960a9d",
       "date_str": "2026-02-14",
       "timestamp": 1770969600
+    },
+    {
+      "id": "upload-manifest",
+      "title": "Creating and Uploading a New Route Manifest",
+      "summary": "This tutorial shows you how to upload a new route manifestin BeansRoute. Learn how to click the Upload Manifest button, select your manifest file, enter a route name, select a mandatory warehouse, add a new route, proceed to the next step, This guide helps you successfully upload manifests for efficient route management.",
+      "platform": "Dispatch",
+      "description": "",
+      "trainn_url": "https://beans-ai.portal.trainn.co/share/yrbTsXQiD707bOn0fLqRZA/embed",
+      "display_option_tags": "fedex;regionals",
+      "category": "Dispatch Tutorials",
+      "account_buids": "",
+      "date_str": "2025-05-22",
+      "timestamp": 1747958400
     },
     {
       "id": "assigning-driver-to-route-sway",
@@ -670,19 +683,6 @@
       "description": "",
       "trainn_url": "https://beans-ai.portal.trainn.co/share/j4NH6TjrJH6YBpeWgRUcHg/embed",
       "display_option_tags": "fedex",
-      "category": "Dispatch Console Onboarding",
-      "account_buids": "",
-      "date_str": "2025-05-22",
-      "timestamp": 1747958400
-    },
-    {
-      "id": "reading-dispatch-routes-pages",
-      "title": "Reading the Dispatch and Routes Pages",
-      "summary": "This tutorial shows you how to navigate the Dispatch and Routes pages in BeansRoute. Learn how to view summary metrics, toggle between different route views, apply warehouse and contract filters, open individual routes for detailed information, and access live statistics and stop details. This guide helps you explore route cards, map pins, and package release information for comprehensive route management.",
-      "platform": "Dispatch",
-      "description": "",
-      "trainn_url": "https://beans-ai.portal.trainn.co/share/sawZl6PkLWNIps0kFQxEmA/embed",
-      "display_option_tags": "fedex;regionals",
       "category": "Dispatch Console Onboarding",
       "account_buids": "",
       "date_str": "2025-05-22",
